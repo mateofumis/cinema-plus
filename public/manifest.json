@@ -1,6 +1,6 @@
 {
-  "short_name": "Netflix",
-  "name": "Clon de Netflix con React",
+  "short_name": "Cinema+",
+  "name": "Plataforma de Películas y Series de TV",
   "icons": [
     {
       "src": "favicon.ico",
